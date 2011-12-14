@@ -45,12 +45,9 @@ a:hover {
 body > header > h1 {
 	border-left: 30px solid black;
 	padding-left: 30px;
-  font-size: 201px;
+  font-size: 164px;
   margin: 100px 0 15px 0;
   font-weight: normal;
-}
-body > header > h1.WillCole {
-    font-size: 164px;
 }
 .post header {
 	margin-bottom: 10px;
