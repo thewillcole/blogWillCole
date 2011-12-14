@@ -7,11 +7,14 @@
     <title><%= title %></title>
   </head>
   <body>
+    <header>
+      <h1 class='WillCole'><a href="/">*WillCole</a></h1>
+    </header>
     <section>
       <%= yield %> 
     </section>
     <footer>
-      powered by <a href="http://cloudhead.io/toto">toto</a>
+      Copyright (c) <%= Time.now.year %>
     </footer>
   </body>
 </html>
