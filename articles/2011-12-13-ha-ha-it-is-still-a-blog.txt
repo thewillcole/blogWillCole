@@ -2,20 +2,9 @@ title: Ha Ha, It is still a Blog.
 author: author Will Cole
 date: 2011/12/13
 
-A man once said:
-
-Through the process of writing this blog, I feel like I can become the kind of person that I always wanted to be. Or, to put it more simply: I want to be the kind of person who keeps a blog. 
-
--Will Cole  
- 
-
-
-Good, now that we've got my attempt at humor out of the way, let's get down to
-busines:
-
 SkyDeck accepted my company into their incubator! Hurray!!!
 
-And that's pretty much all I have to say about that right now, because I'm busy playing aorund with code...I'm sorry for being so rude.
+And that's pretty much all I have to say about that right now, because I'm busy playing around with code...I'm sorry for being so rude.
 
 <3
 
