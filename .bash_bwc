@@ -1,0 +1,6 @@
+#####################
+# blogWillCole bash #
+#####################
+
+alias bwc="thin start"
+
