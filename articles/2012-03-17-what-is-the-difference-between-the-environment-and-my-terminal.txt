@@ -1,0 +1,56 @@
+title: What is the difference between the environment and my terminal?
+author: author Will Cole
+date: 2012/03/17
+
+- If I dedicate my life to it, there's still hope for my terminal.
+- One of them will always be green. (Happy St. Patrick's Day, btw.)
+- I see infinitely simple beauty in one, and don't have enough time to go outside and experience the other.
+
+Oh, what a downer-hook. Shout out to Colfax High School Journalism and UC Berkeley's Squelch Comedy magazine. I know how proud I make neither of you.
+
+Segue. I honestly forgot I had a blog. [Whoops](/about)! Right?
+
+Whatever. Doesn't faze me. I've been too busy being engaged, cofounding [HealthyLabs](http://healthylabs.com/), and climbing to notice that my site was essentially down for the last 3 months:
+
+    > blog_live = Time.new(2011, 11, 2)
+    2011-11-02 00:00:00 -0700
+    > blog_died = Time.new(2011, 12, 13)
+    2011-12-13 00:00:00 -0800
+    > blog_live_again = Time.now
+    2012-03-17 15:51:55 -0700
+    > "%.2f \%" % ((blog_died - blog_live) / (blog_live_again - blog_live) * 100)
+    "30.03 %"
+
+So there you have it:
+
+> **30.03%** uptime guaranteed.  
+> That's theWillCole SLA.
+
+On the bright side, I'll be getting back into it with a vengeance. A blistery, steamy, more than once-every-3-months vengeance. Oooh yeah, baby.
+
+Future topics include:
+
+- Graduated and no job? Learn to program!
+- Palpable Programming Productivity Pointers
+- "It's not racist, it's accurate." And other shit racists have been saying for years.
+- Taking the Plunge: Microsoft to...hmmm
+- How to make good article titles
+- How to Capitalize Article Titles
+- I was wrong: "Homophobes" aren't afraid of your primary place of residence.
+- How to Boulder up a Full Grade in a Month
+- What is a Radio? What is a TV? What is a CD?
+- Ass-kissing and Ass-kicking my way through the Silicon Valley Reading List
+
+Right? I'm psyched too!
+
+Email me if there's a particular one that you want me to write first.
+
+Have a lucky day.
+
+      (^)
+    (^)(v) 
+     (v)
+      )
+      (
+    #thiscloverisbetterthancloverfieldthemovie
+
