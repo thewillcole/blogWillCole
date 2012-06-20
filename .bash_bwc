@@ -2,5 +2,5 @@
 # blogWillCole bash #
 #####################
 
-alias bwc="thin start"
+alias bwc="cd ~/Projects/blogwillcole; thin start"
 
